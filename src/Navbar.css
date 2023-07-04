@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Zfont;
+    src: url(./component/Zfont/ZCOOLKuaiLe-Regular.ttf);
+  }
+h1{
+    color:rgb(255, 233, 146);
+    font-family:Zfont;
+    padding-bottom: 5%;
+}
+.Navbar{
+    background-color:#f4851d;
+}
+
+.title{
+    display: inline-flex;
+    width:70%;
+    font-size: larger;
+  }
+.icon{
+    display:inline-flex;
+    padding-left: 2%;
+    padding-top: 1%;
+}
+
+

@@ -1,0 +1,23 @@
+h2{
+    color:ivory;
+    font-family:Zfont;
+    padding: 3%;
+}
+button{
+        background-color: black;
+        color:ivory;
+        font-family:Zfont;
+        font-size: 16px;
+        margin-left:5%;
+        margin-right:5%;
+}
+
+.buttons{
+    text-align: center;
+    padding-bottom:10%;
+
+}
+ 
+img{
+    width:30%;
+}
