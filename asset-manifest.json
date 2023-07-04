@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53283ba3.css",
+    "main.js": "/static/js/main.0f5425d0.js",
+    "static/media/ZCOOLKuaiLe-Regular.ttf": "/static/media/ZCOOLKuaiLe-Regular.603deaa5c258134e9da8.ttf",
+    "static/media/kuangong.png": "/static/media/kuangong.2885b6c2e4e8b23d8bf9.png",
+    "static/media/mianyin.png": "/static/media/mianyin.2c17e5b3a03ca450bd1d.png",
+    "static/media/lihua.png": "/static/media/lihua.49b7d9d169a10d8dd86a.png",
+    "static/media/buou.png": "/static/media/buou.19ee3b768f75a6b4a530.png",
+    "static/media/jiba.png": "/static/media/jiba.fd12277a0d56c0ff0ef3.png",
+    "static/media/jumao.png": "/static/media/jumao.90c6cf4cb475623ab710.png",
+    "static/media/sanhua.png": "/static/media/sanhua.57e8caea64eeaf44cd47.png",
+    "static/media/heimao.png": "/static/media/heimao.ed57d980c302d07c47cf.png",
+    "static/media/s1.png": "/static/media/s1.9389465fb4fd736b8b0d.png",
+    "static/media/s2.png": "/static/media/s2.3f2de891b015d65bbf16.png",
+    "static/media/s3.png": "/static/media/s3.cf0aa5e52d18a668d367.png",
+    "static/media/s4.png": "/static/media/s4.7933bc7d6c6121f94f29.png",
+    "index.html": "/index.html",
+    "main.53283ba3.css.map": "/static/css/main.53283ba3.css.map",
+    "main.0f5425d0.js.map": "/static/js/main.0f5425d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53283ba3.css",
+    "static/js/main.0f5425d0.js"
+  ]
+}
